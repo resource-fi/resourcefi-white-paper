@@ -11,10 +11,10 @@ description: DAO
 ## 目前 DAO 需要以下几个职位
 
 * 产品经理 1 位
-* UI 设计师 1 位
+* <mark style="color:green;">UI 设计师 1/1</mark>
 * 架构师 1 位
-* 前端工程师 2 位
-* 后端/全栈工程师 2 位
+* <mark style="color:green;">前端工程师 3/2</mark>
+* <mark style="color:green;">后端/全栈工程师 3/2</mark>
 * 测试工程师 1 位
 * 智能合约工程师 2 位
 * 智能合约测试工程师 1 位
