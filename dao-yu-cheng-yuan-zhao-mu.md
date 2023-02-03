@@ -15,12 +15,12 @@ description: DAO
 * 架构师 1 位
 * <mark style="color:green;">前端工程师 3/2</mark>
 * <mark style="color:green;">后端/全栈工程师 3/2</mark>
-* 测试工程师 1 位
+* <mark style="color:green;">测试工程师 1/1</mark>
 * 智能合约工程师 2 位
 * 智能合约测试工程师 1 位
 * 市场营销 2 位
-* 开发者关系 1 位
-* 资源审查员 N 位
+* <mark style="color:green;">开发者关系 1/1</mark>
+* 资源审查员 1/N
 
 我不会保证项目能够盈利。
 
