@@ -10,7 +10,7 @@ description: DAO
 
 ## 目前 DAO 需要以下几个职位
 
-* 产品经理 0/1
+* <mark style="color:green;">产品经理 1/1</mark>
 * <mark style="color:green;">UI 设计师 1/1</mark>
 * 架构师 0/1
 * <mark style="color:green;">前端工程师 3/2</mark>
@@ -58,7 +58,7 @@ description: DAO
 ## 加入优势
 
 * 每人可以获得 1 枚以上 RES 代币。
-* 由于资源审查员是持续的，所以没有 RES 代币奖励。而是通过工作量证明的方式获得代币。RES 代币会持续增发，借鉴比特币的思路。也会有减产。
+* 由于资源审查员是持续的，所以没有 RES 代币奖励。而是通过工作量证明的方式获得代币。RES 代币会持续增发，借鉴比特币的思路。也会有减产机制。
 
 ## 恶意审查处理
 
