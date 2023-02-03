@@ -27,3 +27,5 @@ ResourceFi 的平台角色共有三类：
 * 资源使用者：通过币安币来购买自己所需要的资源。
 
 <figure><img src=".gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+
+项目合约部署网络为币安链，交易代币为币安币。
