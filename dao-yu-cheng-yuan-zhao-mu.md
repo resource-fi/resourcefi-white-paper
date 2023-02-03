@@ -20,7 +20,7 @@ description: DAO
 * 智能合约测试工程师 0/1
 * 市场营销 0/2
 * <mark style="color:green;">开发者关系 1/1</mark>
-* 资源审查员 1/N
+* <mark style="color:orange;">资源审查员 3/N</mark>
 
 我不会保证项目能够盈利。
 
