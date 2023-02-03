@@ -16,7 +16,7 @@ description: DAO
 * <mark style="color:green;">前端工程师 3/2</mark>
 * <mark style="color:green;">后端/全栈工程师 3/2</mark>
 * <mark style="color:green;">测试工程师 1/1</mark>
-* 智能合约工程师 1/2
+* <mark style="color:green;">智能合约工程师 2/2</mark>
 * 智能合约测试工程师 0/1
 * 市场营销 0/2
 * <mark style="color:green;">开发者关系 1/1</mark>
