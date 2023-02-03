@@ -18,7 +18,7 @@ description: DAO
 * <mark style="color:green;">测试工程师 1/1</mark>
 * <mark style="color:green;">智能合约工程师 2/2</mark>
 * 智能合约测试工程师 0/1
-* 市场营销 0/2
+* 市场营销 0/1
 * <mark style="color:green;">开发者关系 1/1</mark>
 * <mark style="color:orange;">资源审查员 3/N</mark>
 
