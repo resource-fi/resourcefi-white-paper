@@ -1,5 +1,5 @@
 ---
-description: DAO
+description: DAO 介绍
 ---
 
 # DAO 与成员招募
@@ -25,7 +25,7 @@ description: DAO
 * <mark style="color:green;">产品经理 1/1</mark>
 * <mark style="color:green;">UI 设计师 1/1</mark>
 * <mark style="color:blue;">架构师 0/1</mark>
-* <mark style="color:green;">前端工程师 3/2</mark>
+* <mark style="color:green;">前端工程师 2/2</mark>
 * <mark style="color:green;">后端/全栈工程师 3/2</mark>
 * <mark style="color:green;">测试工程师 1/1</mark>
 * <mark style="color:green;">智能合约工程师 2/2</mark>
@@ -34,8 +34,6 @@ description: DAO
 * <mark style="color:red;">平台运营 0/1</mark>
 * <mark style="color:green;">开发者关系 1/1</mark>
 * <mark style="color:orange;">资源审查员 3/N</mark>
-
-我不会保证项目能够盈利。
 
 这个项目我们有三个初衷。
 
@@ -72,11 +70,6 @@ description: DAO
 
 * 每人可以获得 1 枚以上 RES 代币。
 * 由于资源审查员是持续的工作，所以在刚开始没有 RES 代币奖励。后续通过工作量证明的方式获得代币。RES 代币会持续增发，借鉴比特币的思路，也会有对应的减产机制。
-
-## 恶意审查处理
-
-* 一旦发现资源审查员恶意审查，就会回收这个资源审查员账户上的所有 RES 代币（回收到智能合约账户）。同时会永久封禁这个人加入 DAO。（因为 DAO 是通过 Web2 的方式加入的，所以我们大概知道这个人在 Web2 中的身份。）
-* DAO 中可以举报恶意审查员，举报成功后，会获得回收账户的 50% RES 代币作为奖励。
 
 
 
