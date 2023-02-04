@@ -8,17 +8,30 @@ description: DAO
 项目成员招募中，申请加入联系 Noah，微信 LZQ20130415
 {% endhint %}
 
-## 目前 DAO 需要以下几个职位
+## 成员招募
+
+目前 DAO 需要以下几个职能的成员：
+
+{% hint style="info" %}
+<mark style="color:blue;">蓝色表示正在招募</mark>
+
+<mark style="color:red;">红色表示紧急招募</mark>
+
+<mark style="color:orange;">橙色表示已暂停招募</mark>
+
+<mark style="color:green;">绿色表示已招满</mark>
+{% endhint %}
 
 * <mark style="color:green;">产品经理 1/1</mark>
 * <mark style="color:green;">UI 设计师 1/1</mark>
-* 架构师 0/1
+* <mark style="color:blue;">架构师 0/1</mark>
 * <mark style="color:green;">前端工程师 3/2</mark>
 * <mark style="color:green;">后端/全栈工程师 3/2</mark>
 * <mark style="color:green;">测试工程师 1/1</mark>
 * <mark style="color:green;">智能合约工程师 2/2</mark>
-* 智能合约测试工程师 0/1
-* 市场营销 0/1
+* <mark style="color:blue;">智能合约测试工程师 0/1</mark>
+* <mark style="color:red;">市场营销 0/1</mark>
+* <mark style="color:red;">平台运营 0/1</mark>
 * <mark style="color:green;">开发者关系 1/1</mark>
 * <mark style="color:orange;">资源审查员 3/N</mark>
 
@@ -64,29 +77,6 @@ description: DAO
 
 * 一旦发现资源审查员恶意审查，就会回收这个资源审查员账户上的所有 RES 代币（回收到智能合约账户）。同时会永久封禁这个人加入 DAO。（因为 DAO 是通过 Web2 的方式加入的，所以我们大概知道这个人在 Web2 中的身份。）
 * DAO 中可以举报恶意审查员，举报成功后，会获得回收账户的 50% RES 代币作为奖励。
-
-## 盈利后的分配机制
-
-### 分配条件
-
-合约中有超过 1.5 BNB 时，才可以进行利润分配。（目前行情，1 枚 BNB 大约是 2200 人民币）
-
-每次分润会分配 60% BNB，剩余 40% BNB 用来确保平台运作。
-
-### 分配方案
-
-按照持有 RES 代币的比例来进行分配利润。
-
-比如合约中共有 100 个 BNB。RES 当前总量是 200 个。
-
-Noah 手中有 50 个代币，那么 Noah 可以分得 (100 \* 0.06) \* (200 / 50) = 24 枚 BNB。
-
-### 分配周期
-
-发起利润的方式有两种。
-
-1. 第一是定期发起分润，比如每 10 天分配一次。（具体时间待商榷）
-2. 第二是投票发起分润，超过半数即可分润。每次发起时间间隔要超过 5 天。发起者需要支付一定 BNB。（数额待商榷）
 
 
 
