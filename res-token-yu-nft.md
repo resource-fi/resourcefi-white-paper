@@ -1,5 +1,5 @@
 ---
-description: RESToken
+description: RES Token 是工作量证明，RES NFT 是资源的表现形式。
 ---
 
 # RES Token 与 NFT
