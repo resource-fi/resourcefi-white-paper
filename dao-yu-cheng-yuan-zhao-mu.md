@@ -22,7 +22,7 @@ description: DAO 介绍
 <mark style="color:green;">绿色表示已招满</mark>
 {% endhint %}
 
-* <mark style="color:green;">产品经理 1/1</mark>
+* <mark style="color:orange;">产品经理 0/1</mark>
 * <mark style="color:green;">UI 设计师 1/1</mark>
 * <mark style="color:blue;">架构师 0/1</mark>
 * <mark style="color:green;">前端工程师 2/2</mark>
@@ -31,7 +31,7 @@ description: DAO 介绍
 * <mark style="color:green;">智能合约工程师 2/2</mark>
 * <mark style="color:green;">智能合约测试工程师 1/1</mark>
 * <mark style="color:green;">市场营销 1/1</mark>
-* <mark style="color:blue;">平台运营 0/1</mark>
+* <mark style="color:blue;">平台运营 1/2</mark>
 * <mark style="color:green;">开发者关系 1/1</mark>
 * <mark style="color:orange;">资源审查员 3/N</mark>
 
