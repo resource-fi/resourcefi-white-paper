@@ -20,6 +20,8 @@ description: DAO 介绍
 <mark style="color:orange;">橙色表示已暂停招募</mark>
 
 <mark style="color:green;">绿色表示已招满</mark>
+
+<mark style="color:red;background-color:orange;">如果你有很明显的优势，可以在一定程度上带领项目成功，即使招满或停招一样可以申请加入。</mark>
 {% endhint %}
 
 * <mark style="color:orange;">产品经理 0/1</mark>
