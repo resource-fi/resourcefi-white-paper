@@ -26,8 +26,8 @@ description: DAO 介绍
 
 * <mark style="color:orange;">产品经理 0/1</mark>
 * <mark style="color:green;">UI 设计师 1/1</mark>
-* <mark style="color:green;">前端工程师 2/2</mark>
-* <mark style="color:green;">后端/全栈工程师 3/2</mark>
+* <mark style="color:green;">前端工程师 3/2</mark>
+* <mark style="color:green;">后端工程师 2/2</mark>
 * <mark style="color:green;">测试工程师 1/1</mark>
 * <mark style="color:green;">智能合约工程师 2/2</mark>
 * <mark style="color:green;">智能合约测试工程师 1/1</mark>
